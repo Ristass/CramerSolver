@@ -1,0 +1,16 @@
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.Form1.resources
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.csproj.GenerateResource.cache
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.AssemblyInfoInputs.cache
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.AssemblyInfo.cs
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\bin\Debug\net6.0-windows\CramerSolverWinForms.exe
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\bin\Debug\net6.0-windows\CramerSolverWinForms.deps.json
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\bin\Debug\net6.0-windows\CramerSolverWinForms.runtimeconfig.json
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\bin\Debug\net6.0-windows\CramerSolverWinForms.dll
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\bin\Debug\net6.0-windows\CramerSolverWinForms.pdb
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.dll
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\refint\CramerSolverWinForms.dll
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.pdb
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\CramerSolverWinForms.genruntimeconfig.cache
+C:\Users\Ristass\Desktop\ГД\CramerSolverWinForms\CramerSolverWinForms\obj\Debug\net6.0-windows\ref\CramerSolverWinForms.dll
